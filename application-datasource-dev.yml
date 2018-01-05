@@ -1,0 +1,11 @@
+sck:
+  type: sck
+  url: jdbc:oracle:thin:@10.1.50.205:1521:orcl
+  class: oracle.jdbc.driver.OracleDriver
+  user: sddb
+  password: sddb
+eom:
+  type: eom
+  url: jdbc:oracle:thin:@10.1.50.205:1521:orcl
+  class: oracle.jdbc.driver.OracleDriver
+  user: eom
